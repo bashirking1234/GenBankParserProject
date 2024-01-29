@@ -20,14 +20,18 @@ Compileer de Java-bestanden. Dit kan gedaan worden door een commando zoals javac
 Voer het programma uit met java Main.
 Volg de instructies in het keuzemenu. U zult gevraagd worden om het pad naar het GBFF-bestand in te voeren en een keuze te maken uit de beschikbare opties.
 
-## Uitbereiding
+## Uitbereiding van project
+Voor het interface kan een GUI gebouw worden inplaats van een bruikbare command tool. 
+Een database kan gebouwd worden met verschillende .gbff bestanden,vanuit de database zou het mogelijk gemaakt kunnen worden om per organisme te kijken hoe vaak deze onderzocht is (hoe vaak komt deze voor in gbff bestanden).
+De mogelijkheid om per organisme te kijken hoe vaak deze onderzocht is (hoe vaak komt deze voor in gbff bestanden).
+De mogelijkheid om gbff bestanden weer te geven in de GUI nadat je een persoon hebt geselecteerd en alle bijbehorende gbff files worden ook weergegeven. 
 
 
 ## Vereisten
 Java JDK 8 of hoger.
 
 ## Licentie
-
+IntelliJ IDEA 2023.3.2 (Ultimate Edition)
 
 ## Auteur
 Bashir Hussein
