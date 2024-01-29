@@ -10,8 +10,11 @@ Gebruikersvriendelijk keuzemenu voor interactie.
 
 ## Bestanden in het Project
 FileParser.java: Interface die de structuur definieert voor bestandsparsers.
+
 GenBankParser.java: Implementeert de FileParser interface voor het parsen van GBFF-bestanden.
+
 OrganismInfo.java: Klasse die informatie over organismen opslaat, zoals verkregen uit GBFF-bestanden.
+
 Main.java: Bevat de main methode en de gebruikersinterface voor interactie met het systeem.
 
 ## Hoe te Gebruiken
