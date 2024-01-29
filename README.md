@@ -43,9 +43,9 @@ Java JDK 8 of hoger.
 ## Licentie
 IntelliJ IDEA 2023.3.2 (Ultimate Edition).
 
-GenBank Loader is auteursrechtelijk beschermd in (2024) door de HAN University of Applied Sciences. Alle rechten voorbehouden.
+GenBankParserProject is auteursrechtelijk beschermd in (2024) door de HAN University of Applied Sciences. Alle rechten voorbehouden.
 
-GenBank Loader valt onder de voorwaarden van de GNU General Public License (GPL) versie 3.
+GenBankParserProject valt onder de voorwaarden van de GNU General Public License (GPL) versie 3.
 
 ## Auteur
 Bashir Hussein
