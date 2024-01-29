@@ -31,8 +31,10 @@ De mogelijkheid om gbff bestanden weer te geven in de GUI nadat je een persoon h
 Java JDK 8 of hoger.
 
 ## Licentie
-IntelliJ IDEA 2023.3.2 (Ultimate Edition)
+IntelliJ IDEA 2023.3.2 (Ultimate Edition).
+GenBank Loader is auteursrechtelijk beschermd in (2024) door de HAN University of Applied Sciences. Alle rechten voorbehouden.
+GenBank Loader valt onder de voorwaarden van de GNU General Public License (GPL) versie 3.
 
 ## Auteur
 Bashir Hussein
-HAN University of Applied Sciences
+HAN University of Applied Sciences (2024)
