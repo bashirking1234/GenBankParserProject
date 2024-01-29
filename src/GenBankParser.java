@@ -3,6 +3,21 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.FileNotFoundException;
 
+/*
+ * Auteursrecht 2024 HAN University of Applied Sciences, 
+ Academie Toegepaste Biowetenschappen & Chemie. Alle rechten voorbehouden.
+ *
+ * Geschreven door Bashir Hussein <bashirking12@gmail.com>
+ *
+ * Dit bestand maakt deel uit van GenBankParserProject.
+ *
+ * GenBankParserProject is vrije software: u kunt het herverdelen en/of aanpassen
+ * onder de voorwaarden van de GNU General Public License zoals gepubliceerd door
+ * de Free Software Foundation, versie 3 van de Licentie, of
+ * (naar uw keuze) enige latere versie.
+ *
+ */
+
 /**
  * De GenBankParser klasse implementeert de FileParser interface
  * en is verantwoordelijk voor het parsen van GenBank Flat File (GBFF) bestanden.
