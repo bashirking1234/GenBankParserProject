@@ -32,9 +32,7 @@ Voor het interface kan een GUI gebouw worden inplaats van een bruikbare command 
 
 Een database kan gebouwd worden met verschillende .gbff bestanden,vanuit de database zou het mogelijk gemaakt kunnen worden om per organisme te kijken hoe vaak deze onderzocht is (hoe vaak komt deze voor in gbff bestanden).
 
-De mogelijkheid om per organisme te kijken hoe vaak deze onderzocht is (hoe vaak komt deze voor in gbff bestanden).
-
-De mogelijkheid om gbff bestanden weer te geven in de GUI nadat je een persoon hebt geselecteerd en alle bijbehorende gbff files worden ook weergegeven. 
+De mogelijkheid om per organisme te kijken hoe vaak  onderzocht is (hoe vaak komt deze voor in gbff bestanden).
 
 
 ## Vereisten
